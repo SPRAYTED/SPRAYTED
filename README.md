@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SPRAYTED
+- 👀 I’m interested in Embedded Electronics and Front-End Development
+- 🌱 I’m currently learning VueJS
+- 💞️ I’m looking to collaborate on Front-End companies for working student jobs
+- 📫 How to reach me ? On my e-mail : yanis.sabbarirebirthprayted34@outlook.fr
